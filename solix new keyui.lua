@@ -65,8 +65,8 @@ end
 
 local config = {
 	File = "solixhub/savedkey.txt",
-	Title = "Solix Hub Free 15+ Games",
-	Description = "Lifetime key access is available for a one time payment of $15 via solixhub.com",
+	Title = "God Hub | 15+ Games",
+	Description = "...",
 	Linkvertise = "https://ads.luarmor.net/get_key?for=Solixhub_Free_KeySystem-OWlLHDMCHADk",
 	Shrink = "https://ads.luarmor.net/get_key?for=Solix_Free_Keysystems-pqJCGTqnTsng",
 	Discord = "https://discord.gg/solixhub",
